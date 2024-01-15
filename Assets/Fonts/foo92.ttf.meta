@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ea4ee6c0f88bf1c40b99a08d8f551a94
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 92
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Foo
+  fontNames:
+  - Foo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2bb4474d412b39c42ab9057ab9c7b1e0, type: 3}
+  - {fileID: 12800000, guid: 9d28983f9d6fc5f4697ffccf543e6423, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
